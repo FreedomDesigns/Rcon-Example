@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\obj\Release\MW2 RCON.csprojResolveAssemblyReference.cache
+C:\Users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Release\MW2 RCON.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Release\MW2 RCON.exe
+C:\Users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Release\MW2 RCON.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\obj\Release\MW2 RCON.exe
+C:\Users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\obj\Release\MW2 RCON.pdb

@@ -1,0 +1,90 @@
+==============================================================================
+MW2 RCON, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+BUILD        : Zero 1.0-1
+------------------------------------------------------------------------------
+Application Information
+------------------------------------------------------------------------------
+Program      : C:\Users\alex\Documents\Visual Studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Release\MW2 RCON.exe
+Time         : 08/03/2015 18:27:54
+User         : Alex
+Computer     : ALEX
+OS           : Microsoft Windows NT 6.2.9200.0
+Culture      : en-GB
+Processors   : 4
+Working Set  : 20090880
+Framework    : 4.0.30319.34014
+Run Time     : 00:00:06.0584185
+------------------------------------------------------------------------------
+Exception Information
+------------------------------------------------------------------------------
+Source       : mscorlib
+Method       : StringToNumber
+Type         : System.FormatException
+Error        : Input string was not in a correct format.
+Stack Trace  : at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at MW2_RCON.rcon.Main() in c:\Users\alex\Documents\Visual Studio 2012\Projects\MW2 RCON\MW2 RCON\rcon.cs:line 99
+Line         : 0
+Stack Trace  : StringToNumber at offset 11177559 in file:line:column <filename unknown>:0:0
+
+------------------------------------------------------------------------------
+Loaded Modules
+------------------------------------------------------------------------------
+C:\Users\alex\Documents\Visual Studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Release\MW2 RCON.vshost.exe | 11.0.50727.1 | 32768
+C:\Windows\SYSTEM32\ntdll.dll | 6.3.9600.17031 (winblue_gdr.140221-1952) | 1470464
+C:\Windows\SYSTEM32\MSCOREE.DLL | 6.3.9600.16384 (winblue_rtm.130821-1623) | 352256
+C:\Windows\SYSTEM32\KERNEL32.dll | 6.3.9600.17031 (winblue_gdr.140221-1952) | 1310720
+C:\Windows\SYSTEM32\KERNELBASE.dll | 6.3.9600.17031 (winblue_gdr.140221-1952) | 851968
+C:\Windows\system32\apphelp.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 626688
+C:\Windows\SYSTEM32\ADVAPI32.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 491520
+C:\Windows\SYSTEM32\msvcrt.dll | 7.0.9600.16384 (winblue_rtm.130821-1623) | 778240
+C:\Windows\SYSTEM32\sechost.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 253952
+C:\Windows\SYSTEM32\RPCRT4.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 720896
+C:\Windows\SYSTEM32\SspiCli.dll | 6.3.9600.16408 (winblue_gdr.130920-1803) | 118784
+C:\Windows\SYSTEM32\CRYPTBASE.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 36864
+C:\Windows\SYSTEM32\bcryptPrimitives.dll | 6.3.9600.17120 (winblue_gdr.140509-1516) | 335872
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll | 4.0.30319.34014 built by: FX45W81RTMGDR | 516096
+C:\Windows\SYSTEM32\SHLWAPI.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 266240
+C:\Windows\SYSTEM32\combase.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 1368064
+C:\Windows\SYSTEM32\USER32.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 1359872
+C:\Windows\SYSTEM32\GDI32.dll | 6.3.9600.17246 (winblue_gdr.140801-1518) | 1077248
+C:\Windows\system32\IMM32.DLL | 6.3.9600.17031 (winblue_gdr.140221-1952) | 151552
+C:\Windows\SYSTEM32\MSCTF.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 1011712
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll | 4.0.30319.34014 built by: FX45W81RTMGDR | 6926336
+C:\Windows\SYSTEM32\MSVCR120_CLR0400.dll | 12.00.51670.34230 built by: FX452RTMGDR | 880640
+C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\c90ef9a73ea0044641d31b19023aad61\mscorlib.ni.dll | 4.0.30319.34014 built by: FX45W81RTMGDR | 17387520
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll | 4.0.30319.34014 built by: FX45W81RTMGDR | 512000
+C:\Windows\SYSTEM32\OLEAUT32.dll | 6.3.9600.17403 | 610304
+C:\Windows\SYSTEM32\ole32.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 1097728
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System\1c5fe4cb68f67046baec4c3a854f722f\System.ni.dll | 4.0.30319.34239 built by: FX452RTMGDR | 10039296
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Drawing\8efdc7a3726640f79d9333da88accaf8\System.Drawing.ni.dll | 4.0.30319.33440 built by: FX45W81RTMREL | 1646592
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Windows.Forms\70c6bf4a51d18b4a9a1805cd48d1caad\System.Windows.Forms.ni.dll | 4.0.30319.33440 built by: FX45W81RTMREL | 12869632
+C:\Windows\SYSTEM32\VERSION.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 32768
+C:\Program Files (x86)\Common Files\Microsoft Shared\VS7Debug\11.0\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll | 11.0.50727.1 built by: RTMREL | 98304
+C:\Windows\SYSTEM32\kernel.appcore.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 36864
+C:\Windows\SYSTEM32\clbcatq.dll | 2001.12.10530.16384 (winblue_rtm.130821-1623) | 512000
+C:\Windows\SYSTEM32\CRYPTSP.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 98304
+C:\Windows\system32\rsaenh.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 192512
+C:\Windows\SYSTEM32\bcrypt.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 118784
+C:\Windows\SYSTEM32\sxs.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 503808
+C:\Windows\SYSTEM32\psapi.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 24576
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\483443985708dc5439abe7fd6350abe4\System.Core.ni.dll | 4.0.30319.33440 built by: FX45W81RTMREL | 6959104
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq\9b0c1539963f393f6641949a67757b8f\System.Xml.Linq.ni.dll | 4.0.30319.33440 built by: FX45W81RTMREL | 405504
+C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.CSharp\7805e35ecc075a1678943c2186c97f10\Microsoft.CSharp.ni.dll | 4.0.30319.33440 | 1617920
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\393d18ac0734febc7e5f0437f6af0555\System.Data.ni.dll | 4.0.30319.33440 built by: FX45W81RTMREL | 7393280
+C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll | 4.0.30319.33440 built by: FX45W81RTMREL | 3223552
+C:\Windows\SYSTEM32\WS2_32.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 315392
+C:\Windows\SYSTEM32\CRYPT32.dll | 6.3.9600.16431 (winblue_gdr.131015-2301) | 1605632
+C:\Windows\SYSTEM32\NSI.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 28672
+C:\Windows\SYSTEM32\MSASN1.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 57344
+C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\43edd630a9f8cd6ac38c527b106ec94f\System.Xml.ni.dll | 4.0.30319.34230 built by: FX452RTMGDR | 7794688
+C:\Windows\system32\uxtheme.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 897024
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.9600.16384_none_7c55c866aa0c3ff0\comctl32.dll | 5.82 (winblue_rtm.130821-1623) | 548864
+C:\Windows\system32\dwmapi.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 98304
+C:\Windows\SYSTEM32\shell32.dll | 6.3.9600.17031 (winblue_gdr.140221-1952) | 18575360
+C:\Windows\SYSTEM32\SHCORE.dll | 6.3.9600.16384 (winblue_rtm.130821-1623) | 483328
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll | 12.0.20806.33440 built by: FX45W81RTMREL | 856064
+------------------------------------------------------------------------------
+2015-03-08_18.27.54.log
+==============================================================================

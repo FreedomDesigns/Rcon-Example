@@ -1,0 +1,9 @@
+//+-------------------------------------+
+//| Freedom's RCON Tool v1.0! |
+//| All settings goes here.   |
+//+-------------------------------------+
+
+IP=192.168.1.23
+PORT=28960
+PASSWORD=1998
+CONSOLE_NAME=^0[1ADMIN^0]

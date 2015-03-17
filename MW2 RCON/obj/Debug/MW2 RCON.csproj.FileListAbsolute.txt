@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Debug\MW2 RCON.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Debug\MW2 RCON.exe
+c:\users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\bin\Debug\MW2 RCON.pdb
+c:\users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\obj\Debug\MW2 RCON.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\obj\Debug\MW2 RCON.exe
+c:\users\alex\documents\visual studio 2012\Projects\MW2 RCON\MW2 RCON\obj\Debug\MW2 RCON.pdb
